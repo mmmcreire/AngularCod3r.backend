@@ -1,0 +1,19 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Caneta preta",
+            "price": 5.89
+        },
+        {
+            "id": 1,
+            "name": "Caneta azul",
+            "price": 4.89
+        },
+        {
+            "id": 3,
+            "name": "Caderno",
+            "price": 56.9
+        }
+    ]
+}
